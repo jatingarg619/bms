@@ -1,0 +1,95 @@
+.App {
+ 
+}
+
+
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+
+
+body{
+    overflow-x: hidden;
+    padding: 10px;
+    font-size:16px;
+}
+
+
+
+.dropdownContainer{
+  float: right;
+  width: 15%;
+}
+
+
+.Dropdownwidth{
+  width: 200px;
+}
+
+
+.Title{
+  color: #ffffff
+}
+
+
+.NavItem{
+  margin: 10px;
+}
+
+.TrailerContainer{
+   background-color: gray;
+   padding: 10px;
+}
+
+
+
+
+
+
+.card{
+  color: #ffffff;
+  cursor: pointer;
+  background-color: gray !important;
+  border:0px !important;
+  border-radius: 0px !important;
+  padding-bottom: 55px;
+}
+
+
+.card-footer{
+   
+    background-color: gray !important;
+    border-top:   0px !important;
+}
+
+
+
+
+.VideoContainer{
+    padding: 20px;
+    height: 55vh;
+}
+
+.TextContainer{
+    color: #ffffff;
+    padding: 20px;
+    height: 55vh;
+    background-color: #343a40 !important;
+}
+
+
+
+.votes{
+  float: right;
+  margin-right: 80px;
+}

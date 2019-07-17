@@ -1,0 +1,36 @@
+body{
+		
+}
+
+
+.InputContainer{
+   padding: 30px;
+}
+
+#error{
+	color: red;
+	padding: 20px;
+}
+
+input{
+	width:50%;
+}
+
+button{
+	color: #ffffff;
+    padding: 5px;
+    border: 2px;
+    border-radius: 5px;
+    margin: 20px;
+    width: 10%;
+}
+
+button[type=submit]:enabled {
+  background: #00a2ed;
+  cursor: pointer;
+}
+
+button[type=submit]:disabled {
+  background: #ff4040;
+  cursor: not-allowed;
+}
